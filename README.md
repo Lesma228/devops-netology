@@ -1,5 +1,5 @@
 ## devops-netology
-ignored files:  
+* ignored files: * 
 crash.log   
 crash.*.log  
 override.tf   
